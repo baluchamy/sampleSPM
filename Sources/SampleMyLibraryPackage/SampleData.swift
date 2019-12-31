@@ -6,7 +6,7 @@
 //
 
 import Foundation
-class SampleData {
+public class SampleData {
     var name: String?
     var address: String?
     var age: Int?
