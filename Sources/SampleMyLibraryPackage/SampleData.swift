@@ -7,7 +7,10 @@
 
 import Foundation
 public class SampleData {
-    var name: String?
-    var address: String?
-    var age: Int?
+    public init {
+        
+    }
+   public var name: String?
+   public var address: String?
+   public var age: Int?
 }
